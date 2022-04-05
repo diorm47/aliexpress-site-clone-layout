@@ -1,2 +1,2 @@
-# aliexpress-site-clone-layout
-AliExpress web-site layout in HTML and CSS
+# AliExpress-clone-layout
+AliExpress web-site's layout in HTML and CSS
